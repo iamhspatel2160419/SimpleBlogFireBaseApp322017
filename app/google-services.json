@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217123735886",
+    "firebase_url": "https://myblogapp-dd3ea.firebaseio.com",
+    "project_id": "myblogapp-dd3ea",
+    "storage_bucket": "myblogapp-dd3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217123735886:android:30f05348e1d5acdd",
+        "android_client_info": {
+          "package_name": "com.example.admin.simpleblogfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217123735886-tdflmk35uoeie7qjnba2n3qedo5pfda8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_q82VZE5OxunHoXq_Tdb-sXXZSuj74Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217123735886-tdflmk35uoeie7qjnba2n3qedo5pfda8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
